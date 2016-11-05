@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.hp.a05112016workshop.ListviewActivity">
+    tools:context="com.example.hp.a05112016workshop.NewsListActivity">
 
     <LinearLayout
         android:id="@+id/layout_top"
